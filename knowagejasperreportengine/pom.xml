@@ -51,7 +51,7 @@
 		<dependency>
 			<groupId>net.sf.jasperreports</groupId>
 			<artifactId>jasperreports</artifactId>
-			<version>6.1.0</version>
+			<version>6.4.1</version>
 			<scope>compile</scope>
 			<exclusions>
 				<exclusion>
@@ -79,14 +79,14 @@
 		<dependency>
 			<groupId>net.sf.jasperreports</groupId>
 			<artifactId>jasperreports-functions</artifactId>
-			<version>6.1.0</version>
+			<version>6.8.0</version>
 			<scope>runtime</scope>
 		</dependency>
 
 		<dependency>
 			<groupId>net.sf.jasperreports</groupId>
 			<artifactId>jasperreports-chart-themes</artifactId>
-			<version>6.1.0</version>
+			<version>6.8.0</version>
 			<scope>runtime</scope>
 		</dependency>
 		
